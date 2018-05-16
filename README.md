@@ -6,7 +6,7 @@
 * +55 41 996 382 985
 * patrick.pwall@gmail.com
 * [linkedin.com/in/rodriguespatrick](https://www.linkedin.com/in/rodriguespatrick/)
-* Download the [PDF version](https://github.com/pwall27/cv/blob/master/resume-patrick.pdf)
+* Download the [PDF version](https://github.com/pwall27/cv/raw/master/resume-patrick.pdf)
 
 ## Summary
 * Six years of experience developing a wide range of Web Applications
