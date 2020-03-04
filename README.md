@@ -1,68 +1,31 @@
+	
 # Patrick Rodrigues
+Curitiba, Brazil / [+55 41 996-382-985](tel:+5541996382985) / [patrick.pwall@gmail.com](patrick.pwall@gmail.com)
 
-## About
-* Available June 2018
-* Curitiba, Brazil
-* +55 41 996 382 985
-* patrick.pwall@gmail.com
-* [linkedin.com/in/rodriguespatrick](https://www.linkedin.com/in/rodriguespatrick/)
-* Download the [PDF version](https://github.com/pwall27/cv/raw/master/resume-patrick.pdf)
+## SUMMARY
+Python Developer with exposure to a wide variety of environments and a diversity of challenges. Passionate about using technology to improve people’s lives. Capable of leading teams throughout the lifecycle of a project. Adept at planning & implementing strategies to execute key project deliverables & deliver compelling business value to clients. Architect software projects and develop the best solutions with clean code with high quality. Since the last year he is the Tech Lead in his squad and most recently was called to be the company's Python Stack Lead.
+ 
+## EXPERIENCE
+Python Developer & Tech Lead - Snowman Labs. Curitiba, Brazil 11/17 – Present
+Development of various REST APIs in Python, using frameworks like Django, Flask. Implemented testable and well covered REST APIs with unit and integration tests for mobile and web applications using Django, Flask and FastAPI frameworks. Designed and implemented a clean code architecture in a project for a brand new insurance company. Automated CI/CD pipelines for daily deployment. Discussed and reviewed stories with managers and assigning them to other developers on the team. Conducted follow-up and retrospective meetings frequently with members of the team. (Python, Django, Flask, FastAPI, SQLAlchemy, PyTest, Clean Architecture, PostgreSQL, Heroku, AWS, Azure, Docker, Git Flow, VueJS, DevOps)
 
-## Summary
-* Six years of experience developing a wide range of Web Applications
-* Deep understanding of HTTP methods, RESTful architecture
-* Specifications development and implementations of new projects, preparation of
-technical documentation and redesign of the system architecture
-* Used the Model View controller framework to build modular and maintainable
-applications
+## Backend Developer - PG Mais. Curitiba, Brazil  12/15 – 10/17
+Development of inhouse software in order to automate third-party integrations process. Created dozens of microservices based platform which allows small and medium companies send marketing campaigns via mail, SMS and VoIP. (Python, Flask, MySQL, Linux Server, Docker, JavaScript)
 
-## Skills
-* Python, PHP, PostgresSQL, MySQL, SQL Azure
-* Django, Flask, Docker, Heroku, Amazon Web Services, Azure, Firebase, GIT
-* HTML5, CSS3, Javascript, AngularJS, Bootstrap, Metronic theme
-* Languages: Portuguese (native), English (advanced), Spanish (elementary)
+## Full-stack Developer - Belief Wedding Planners. Remote  1/15 – 12/15 
+Development of an international social network for wedding planners. Envisioning & designing technical aspects of the company's strategy for ensuring alignment with business & strategic goals. Implemented best software engineering practices for gathering functional and non-functional specifications. (Python, Django, DRF, PostgreSQL, AngularJS, HTML, CSS, JavaScript, DevOps)
 
-## Experience
-### Python Developer, Snowman Labs (2017 – Present)
-* Design and implementation of RESTful API’s using Python
-* Participation in architectural design sessions and product discussions
-* The tech stack involves mostly Python 3, Django, Django Rest Framework,
-PostgreSQL, Heroku and 12-factor app
+## Full-stack Developer - Escola do Marketing Digital. Remote 3/13 – 1/15
+Created a platform for selling, maintaining and hosting online courses that served more than 50 thousand registered users. Development of new responsive layout, administrative panel, sales page and database structure, as well as integration with payment gateway APIs. (Python, PHP, MySQL, Linux Server, AngularJS, JavaScript)
 
-### Software Engineer, PG Mais (2015 – 2017)
-* Development of inhouse software using Python and automation in the processes
-of FTP integrations
-* Development of a microservices based platform which allows small and medium
-companies send marketing campaigns via mail, sms and URA calls
-* The tech stack involves mostly Python 3, Flask, SQLAlchemy, Docker and Git
-
-### Software Engineer, Escola do Marketing Digital (2013 – 2015)
-* Development of new graphical user interface in the enterprise system
-* Integrations with ecommerce and payment gateways
-* Development and maintenance of a e-learning platform with more than 50k
-active users
-* Remote work
-
-### Intern, Microsoft Innovation Center (2010 – 2011)
-* Development of an internal system for the registration and maintenance of
-resumes for the company's HR sector
-
-### Intern, 4Sec Global (2009 – 2010)
-* Technical support and implementation of information security software for small
-and medium-sized businesses
-
-## Education
-* B.A. in Computer Information Systems, Universidade Positivo (2010-2015)
-
-## Projects
-
-### Volunteer Representative, The Church of Jesus Christ of Latter-day Saints (2011-2013)
-* Taught, trained, and supervised groups of 20-30 people
-* Met, conversed with, and taught over 100 people on a weekly basis
-* Obtained proficiency in English
-
-## Other Experience
-### California, United States (2014, Silicon Valley)
-Work Travel in the San Francisco Bay, California, meeting Brazilian professionals who
-are developing their careers as entrepreneurs or professionals in tech companies such
-as Google, Facebook and Whatsapp
+### Internship - Tech Result. Curitiba, Brazil 8/10 – 3/11
+### Internship - 4Sec Global. Curitiba, Brazil 5/9 – 6/10
+ 
+## EDUCATION
+Universidade Federal do Paraná at Curitiba, Brazil, 2020 - 2021. 
+Graduate degree - Applied Artificial Intelligence
+Universidade Positivo at Curitiba, Brazil, 2013 - 2015. 
+Associate degree - Computer Systems Technology
+ 
+## ACTIVITY
+Volunteer Representative. Santa Maria, Brazil, 2011 - 2013
